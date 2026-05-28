@@ -11,7 +11,7 @@
 
 .full-width {
     margin: 0 auto;
-    width: calc(100% - 30px);
+    width: min(calc(100% - 30px), 1920px);
 }
 
 .small-spacing {

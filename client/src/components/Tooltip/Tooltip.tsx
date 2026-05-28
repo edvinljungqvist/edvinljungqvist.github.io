@@ -17,8 +17,8 @@ const Tooltip: FunctionComponent<TooltipProps> = ({
     clickText = "",
     copyText = "",
     children,
-    backgroundColor = "var(--surface-10)",
-    borderColor = "var(--surface-20)",
+    backgroundColor = "var(--surface-50)",
+    borderColor = "var(--surface-50)",
     className = ""
 }): ReactElement => {
     const [tooltipText, setTooltipText] = useState<string>("");

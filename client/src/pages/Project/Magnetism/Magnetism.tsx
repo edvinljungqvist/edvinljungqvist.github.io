@@ -132,12 +132,7 @@ const Magnetism: FunctionComponent = (): ReactElement => {
                     </p>
                 </RevealUp>
                 <RevealUp className="container wide-width">
-                    <video
-                        preload="metadata"
-                        autoPlay
-                        loop
-                        muted
-                    >
+                    <video preload="metadata" controls>
                         <source src="/videos/magnetism-replay.mp4" type="video/mp4" />
                         Your browser does not support the video tag.
                     </video>
