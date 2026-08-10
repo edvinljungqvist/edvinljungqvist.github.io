@@ -78,5 +78,14 @@ export default [
         technologies: [
             "MCFunction"
         ]
+    },
+    {
+        key: "advancedNpc",
+        image: "advanced-npc.png",
+        link: "https://github.com/EdvinLjungqvist/advanced_npc",
+        category: "minecraft",
+        technologies: [
+            "MCFunction"
+        ]
     }
 ] as Project[];

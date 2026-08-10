@@ -8,7 +8,7 @@ export default {
         github: "edvinljungqvist",
         instagram: "edvin.ljungqvist",
         linkedin: "edvin-ljungqvist-02603630b",
-        discord: "ljungans"
+        discord: "ljungandev"
     },
     mail: "edvin.ljungan@gmail.com"
 } as Me;

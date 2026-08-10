@@ -95,6 +95,10 @@
                     "salmonSays": {
                         "title": "Salmon Says",
                         "description": "A minigame created in vanilla Minecraft"
+                    },
+                    "advancedNpc": {
+                        "title": "Advanced NPC",
+                        "description": "A Minecraft NPC datapack"
                     }
                 },
                 "button": "Show {{count}} more"

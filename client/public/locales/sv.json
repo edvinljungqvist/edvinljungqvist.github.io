@@ -78,7 +78,7 @@
                     },
                     "magnetism": {
                         "title": "Magnetism",
-                        "description": "En 2D äventyrsnmapp i Vanilla Minecraft"
+                        "description": "En 2D äventyrsnmapp i vanilla Minecraft"
                     },
                     "othello": {
                         "title": "Othello",
@@ -90,11 +90,15 @@
                     },
                     "balloonBlasters": {
                         "title": "Balloon Blasters",
-                        "description": "Mitt första minispel skapat i Vanilla Minecraft"
+                        "description": "Mitt första minispel skapat i vanilla Minecraft"
                     },
                     "salmonSays": {
                         "title": "Salmon Says",
-                        "description": "Ett minispel skapat i Vanilla Minecraft"
+                        "description": "Ett minispel skapat i vanilla Minecraft"
+                    },
+                    "advancedNpc": {
+                        "title": "Advanced NPC",
+                        "description": "Ett Minecraft NPC datapack"
                     }
                 },
                 "button": "Visa {{count}} till"
